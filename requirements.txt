@@ -1,0 +1,5 @@
+numpy
+matplotlib
+pandas
+google-api-python-client
+google-auth-oauthlib
